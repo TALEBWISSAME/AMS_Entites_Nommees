@@ -20,7 +20,7 @@ Ce registre distingue les choix validés des choix restant à étudier. Le prét
 | Frontières des pages | VALIDÉ | Un caractère technique U+000C (`\f`) entre deux pages, sans séparateur final. Absent des pages sources (vérifié), il pourra être traité ultérieurement. |
 | Vérification des exports | VALIDÉ | Relecture UTF-8 stricte, comparaison intégrale avec les pages en mémoire, contrôle de taille et de caractères hors séparateurs. Retours de ligne conservés sans conversion. |
 | Mesures techniques provisoires | Décidé le 30 septembre 2026 | Caractères sans séparateurs ajoutés, lignes par page, estimation des mots par split() sur les blancs ; aucune tokenisation NLP. |
-| Méthode de tokenisation | À décider | À renseigner après étude du corpus et du sujet. |
+| Méthode de tokenisation | Décidée pour L | Tokenisation C++ UTF-8 par code points : lettres/chiffres, apostrophes et tirets internes conservés, ponctuation séparatrice, retours à la ligne internes assimilés à des blancs. Voir LISTE_L.md. |
 | Prétraitement Bash + GNU awk | VALIDÉ pour la tâche 4 | Bash orchestre, GNU awk 5.3.2 traite sous C.utf8. Voir PRETRAITEMENT.md. |
 | Pagination | VALIDÉ pour la tâche 4 | Ligne entière au format ± entier ± ou - entier -, en fin de page uniquement. |
 | Frontières pendant le prétraitement | VALIDÉ | U+000C préservé ; aucune fusion à travers les pages manquantes. |
@@ -30,12 +30,12 @@ Ce registre distingue les choix validés des choix restant à étudier. Le prét
 | Gestion de la casse | Conservation validée | Une majuscule n’est pas une preuve d’entité nommée. |
 | Gestion des accents | Conservation validée | Aucune substitution ni suppression. |
 | Gestion des mots coupés | Politique conservatrice validée | Liste restreinte de formes réunies sans supprimer le tiret ; autres cas conservés. Aucun raccord interpage. |
-| Statistiques finales | À décider | Selon les consignes et les besoins du rapport. |
-| Fréquences et modèle de langue | À décider | Structures et méthode à justifier. |
-| Règles de construction de L | À décider | Après observation du bruit réel. |
+| Statistiques finales | À décider | Selon les consignes et les besoins du rapport final. Les statistiques propres à L sont produites dans `results/lists/liste_L_stats.txt`. |
+| Fréquences et modèle de langue | Décidé partiellement pour L | `L` conserve les fréquences des formes candidates uniques ; aucun modèle de langue complet ni co-occurrence n'est produit à cette étape. |
+| Règles de construction de L | Décidée | N-grammes `n=1,2,3` construits dans une même page, retenus si le premier token commence par une majuscule. Liste en vrac, sans classification PERSON/lieu et sans antidictionnaire. |
 | Heuristiques de raffinement vers LP | À décider | À évaluer sur les résultats réels. |
 | Méthode de construction de LL | À décider | Selon les catégories du sujet. |
-| Regex, antidictionnaire et informations POS | À décider | Pertinence à vérifier. |
+| Regex, antidictionnaire et informations POS | À décider | Non utilisés pour produire `L`, car l'énoncé ne les impose pas à ce stade ; à étudier pour LP/LL. |
 | FreeLing / NLTK ou aucun des deux | À décider | Selon les besoins et la compatibilité avec les consignes. |
 | Utilisation des co-occurrences et taille de fenêtre | À décider | Seulement si pertinent. |
 | Protocole d’évaluation | À décider | Selon les consignes et les données disponibles. |

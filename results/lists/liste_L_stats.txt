@@ -1,0 +1,17 @@
+Génération de L
+Format liste: n<TAB>forme<TAB>frequence
+Critère: n-grammes n=1,2,3 dont le premier token commence par une majuscule
+Frontière U+000C: aucune séquence ne traverse une page
+
+roman	tokens	pages	frontieres	candidats_n1	candidats_n2	candidats_n3
+Fondation	33021	108	107	4292	4280	4275
+Fondation_et_empire	36928	116	115	4514	4495	4489
+Seconde_Fondation	37406	120	119	4481	4464	4454
+TOTAL	107355	344	341	13287	13239	13218
+
+formes_uniques_n1=1246
+formes_uniques_n2=7974
+formes_uniques_n3=11911
+formes_uniques_total=21131
+occurrences_candidates_total=39744
+traversees_u000c=0

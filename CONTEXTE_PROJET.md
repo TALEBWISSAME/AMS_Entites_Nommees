@@ -67,7 +67,11 @@ Tâche 4 — Prétraitement conservateur Bash/AWK : TERMINÉE
 
 Entrées : `results/extracted/`. Sorties : `results/processed/` (trois TXT UTF-8 locaux ignorés par Git). Journal : `results/preprocessing_report.txt`. GNU awk 5.3.2, locale C.utf8 ; 18 tests réussis et SHA-256 des sources inchangés. 343 paginations supprimées, 40 jonctions avec espace, 10 formes avec tiret réunies ; 341 frontières préservées. Les règles et leurs limites sont détaillées dans `docs/PRETRAITEMENT.md`. Attendre la validation avant la tokenisation.
 
-État actuel : extraction, audit et prétraitement conservateur réalisés ; aucune tokenisation, aucun n-gramme ni L/LP/LL.
+Tâche suivante — Génération de L : IMPLÉMENTÉE POUR VALIDATION
+
+Entrées : `results/processed/` uniquement. Implémentation C++17 : `src/entites_nommees/generate_l.cpp`, lancée par `scripts/generate_l.sh`. Sorties : `results/lists/liste_L.txt` et `results/lists/liste_L_stats.txt`. Règle : n-grammes `n=1,2,3` construits dans une même page, retenus si le premier token commence par une majuscule ; fréquences conservées ; aucune classification PERSON/lieu, aucun antidictionnaire. Tests : `tests/test_generate_l.sh`, 15 tests réussis. Documentation : `docs/LISTE_L.md`.
+
+État actuel : extraction, audit, prétraitement conservateur et génération de L réalisés ; LP/LL non commencés.
 
 Le script `src/entites_nommees/corpus_reader.py` ouvre les trois PDF, extrait le texte en mémoire et affiche un bilan brut. L’option `--export` génère les trois TXT bruts sans nettoyage. Aucun résultat L, LP ou LL n’a été créé. Attendre l’analyse des résultats et une autorisation explicite avant de poursuivre.
 
