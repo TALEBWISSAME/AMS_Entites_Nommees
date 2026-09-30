@@ -33,9 +33,9 @@ Ce registre distingue les choix validés des choix restant à étudier. Le prét
 | Statistiques finales | À décider | Selon les consignes et les besoins du rapport final. Les statistiques propres à L sont produites dans `results/lists/liste_L_stats.txt`. |
 | Fréquences et modèle de langue | Décidé partiellement pour L | `L` conserve les fréquences des formes candidates uniques ; aucun modèle de langue complet ni co-occurrence n'est produit à cette étape. |
 | Règles de construction de L | Décidée | N-grammes `n=1,2,3` construits dans une même page, retenus si le premier token commence par une majuscule. Liste en vrac, sans classification PERSON/lieu et sans antidictionnaire. |
-| Heuristiques de raffinement vers LP | À décider | À évaluer sur les résultats réels. |
+| Heuristiques de raffinement vers LP | Décidée pour validation | Filtrage déterministe de `L` en Python : rejet des débuts de phrase, artefacts et indices non-personnes ; conservation des formes de personnes probables ; catégorie ambiguë non exportée. Voir LISTE_LP.md. |
 | Méthode de construction de LL | À décider | Selon les catégories du sujet. |
-| Regex, antidictionnaire et informations POS | À décider | Non utilisés pour produire `L`, car l'énoncé ne les impose pas à ce stade ; à étudier pour LP/LL. |
+| Regex, antidictionnaire et informations POS | À décider pour la suite | Non utilisés pour produire `L` ni `LP`. L'antidictionnaire ENT est mentionné comme ressource possible dans l'énoncé, mais aucun fichier officiel n'est présent et son usage n'est pas imposé pour LP. |
 | FreeLing / NLTK ou aucun des deux | À décider | Selon les besoins et la compatibilité avec les consignes. |
 | Utilisation des co-occurrences et taille de fenêtre | À décider | Seulement si pertinent. |
 | Protocole d’évaluation | À décider | Selon les consignes et les données disponibles. |

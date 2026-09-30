@@ -1,0 +1,923 @@
+forme	frequence	n	preuve
+Mulet	225	1	unigramme_majuscule_frequent
+Seldon	187	1	unigramme_majuscule_frequent
+Hardin	127	1	unigramme_majuscule_frequent
+Mallow	123	1	unigramme_majuscule_frequent
+Bayta	115	1	unigramme_majuscule_frequent
+Toran	111	1	unigramme_majuscule_frequent
+Pritcher	92	1	unigramme_majuscule_frequent
+Channis	88	1	unigramme_majuscule_frequent
+Darell	79	1	unigramme_majuscule_frequent
+Kalgan	76	1	unigramme_majuscule_frequent
+Barr	73	1	unigramme_majuscule_frequent
+Mis	69	1	unigramme_majuscule_frequent
+Arcadia	61	1	unigramme_majuscule_frequent
+Riose	60	1	unigramme_majuscule_frequent
+Devers	57	1	unigramme_majuscule_frequent
+Anthor	56	1	unigramme_majuscule_frequent
+Munn	53	1	unigramme_majuscule_frequent
+Ebling	52	1	unigramme_majuscule_frequent
+Gaal	49	1	unigramme_majuscule_frequent
+Magnifico	44	1	unigramme_majuscule_frequent
+Hari	42	1	unigramme_majuscule_frequent
+Hari Seldon	42	2	2gramme_nominal_majuscule
+Ponyets	40	1	unigramme_majuscule_frequent
+Sutt	39	1	unigramme_majuscule_frequent
+Ça	39	1	unigramme_majuscule_frequent
+Oh	38	1	unigramme_majuscule_frequent
+Pirenne	37	1	unigramme_majuscule_frequent
+Wienis	37	1	unigramme_majuscule_frequent
+Qu'est-ce	36	1	unigramme_majuscule_frequent
+Ebling Mis	34	2	2gramme_nominal_majuscule
+Marchands	33	1	unigramme_majuscule_frequent
+Homir	31	1	unigramme_majuscule_frequent
+Callia	30	1	unigramme_majuscule_frequent
+Tazenda	30	1	unigramme_majuscule_frequent
+Bien	29	1	unigramme_majuscule_frequent
+Randu	29	1	unigramme_majuscule_frequent
+Excellence	26	1	unigramme_majuscule_frequent
+Grand	26	1	unigramme_majuscule_frequent
+Lee	26	1	unigramme_majuscule_frequent
+Indbur	25	1	unigramme_majuscule_frequent
+Maintenant	24	1	unigramme_majuscule_frequent
+Maître	24	1	unigramme_majuscule_frequent
+S	24	1	unigramme_majuscule_frequent
+Twer	24	1	unigramme_majuscule_frequent
+Est-ce	23	1	unigramme_majuscule_frequent
+P	23	1	unigramme_majuscule_frequent
+Papa	23	1	unigramme_majuscule_frequent
+Vraiment	23	1	unigramme_majuscule_frequent
+Brodrig	22	1	unigramme_majuscule_frequent
+Ma	22	1	unigramme_majuscule_frequent
+Mon	22	1	unigramme_majuscule_frequent
+Où	22	1	unigramme_majuscule_frequent
+Port	22	1	unigramme_majuscule_frequent
+Sermak	21	1	unigramme_majuscule_frequent
+Turbor	21	1	unigramme_majuscule_frequent
+Gorov	20	1	unigramme_majuscule_frequent
+Première	20	1	unigramme_majuscule_frequent
+Périphérie	19	1	unigramme_majuscule_frequent
+Semic	19	1	unigramme_majuscule_frequent
+Verisof	19	1	unigramme_majuscule_frequent
+Kleise	18	1	unigramme_majuscule_frequent
+L'homme	18	1	unigramme_majuscule_frequent
+Lepold	18	1	unigramme_majuscule_frequent
+Forell	17	1	unigramme_majuscule_frequent
+Jael	17	1	unigramme_majuscule_frequent
+Moi	17	1	unigramme_majuscule_frequent
+Seigneur	17	1	unigramme_majuscule_frequent
+Han	16	1	unigramme_majuscule_frequent
+Han Pritcher	16	2	2gramme_nominal_majuscule
+Ecoutez	15	1	unigramme_majuscule_frequent
+Hober	15	1	unigramme_majuscule_frequent
+Hober Mallow	15	2	2gramme_nominal_majuscule
+Rien	15	1	unigramme_majuscule_frequent
+Stettin	15	1	unigramme_majuscule_frequent
+Tenez	15	1	unigramme_majuscule_frequent
+Voyons	15	1	unigramme_majuscule_frequent
+Citoyen	14	1	unigramme_majuscule_frequent
+Commason	14	1	unigramme_majuscule_frequent
+Rossem	14	1	unigramme_majuscule_frequent
+Torie	14	1	unigramme_majuscule_frequent
+Depuis	13	1	unigramme_majuscule_frequent
+Etes-vous	13	1	unigramme_majuscule_frequent
+Homir Munn	13	2	2gramme_nominal_majuscule
+Maman	13	1	unigramme_majuscule_frequent
+Mes	13	1	unigramme_majuscule_frequent
+Parfaitement	13	1	unigramme_majuscule_frequent
+Pherl	13	1	unigramme_majuscule_frequent
+Quatre	13	1	unigramme_majuscule_frequent
+Bail	12	1	unigramme_majuscule_frequent
+Bail Channis	12	2	2gramme_nominal_majuscule
+Bay	12	1	unigramme_majuscule_frequent
+Fran	12	1	unigramme_majuscule_frequent
+S'il	12	1	unigramme_majuscule_frequent
+Siwenna	12	1	unigramme_majuscule_frequent
+Tous	12	1	unigramme_majuscule_frequent
+Attendez	11	1	unigramme_majuscule_frequent
+Avez-vous	11	1	unigramme_majuscule_frequent
+Cléon	11	1	unigramme_majuscule_frequent
+D'ailleurs	11	1	unigramme_majuscule_frequent
+Dame	11	1	unigramme_majuscule_frequent
+Ducem	11	1	unigramme_majuscule_frequent
+Ducem Barr	11	2	2gramme_nominal_majuscule
+Néotrantor	11	1	unigramme_majuscule_frequent
+Pelleas	11	1	unigramme_majuscule_frequent
+Cinq	10	1	unigramme_majuscule_frequent
+Inchney	10	1	unigramme_majuscule_frequent
+Jord	10	1	unigramme_majuscule_frequent
+L'empereur	10	1	unigramme_majuscule_frequent
+Merci	10	1	unigramme_majuscule_frequent
+Naturellement	10	1	unigramme_majuscule_frequent
+Salvor	10	1	unigramme_majuscule_frequent
+Salvor Hardin	10	2	2gramme_nominal_majuscule
+Seigneurs	10	1	unigramme_majuscule_frequent
+Voici	10	1	unigramme_majuscule_frequent
+Voulez-vous	10	1	unigramme_majuscule_frequent
+D'un	9	1	unigramme_majuscule_frequent
+Dame Callia	9	2	titre_suivi_nom
+Dorwin	9	1	unigramme_majuscule_frequent
+Fara	9	1	unigramme_majuscule_frequent
+Lentement	9	1	unigramme_majuscule_frequent
+Monsieur	9	1	unigramme_majuscule_frequent
+Pourtant	9	1	unigramme_majuscule_frequent
+Quelles	9	1	unigramme_majuscule_frequent
+Royaumes	9	1	unigramme_majuscule_frequent
+Senter	9	1	unigramme_majuscule_frequent
+Toutes	9	1	unigramme_majuscule_frequent
+Bel	8	1	unigramme_majuscule_frequent
+Bel Riose	8	2	2gramme_nominal_majuscule
+Bort	8	1	unigramme_majuscule_frequent
+Cependant	8	1	unigramme_majuscule_frequent
+Commission	8	1	unigramme_majuscule_frequent
+Deux	8	1	unigramme_majuscule_frequent
+Dites-moi	8	1	unigramme_majuscule_frequent
+Enfin	8	1	unigramme_majuscule_frequent
+Exactement	8	1	unigramme_majuscule_frequent
+Grâce	8	1	unigramme_majuscule_frequent
+Notre	8	1	unigramme_majuscule_frequent
+Ou	8	1	unigramme_majuscule_frequent
+Peu	8	1	unigramme_majuscule_frequent
+Quatre Royaumes	8	2	2gramme_nominal_majuscule
+Se	8	1	unigramme_majuscule_frequent
+Smyrno	8	1	unigramme_majuscule_frequent
+Aporat	7	1	unigramme_majuscule_frequent
+Asseyez-vous	7	1	unigramme_majuscule_frequent
+Avant	7	1	unigramme_majuscule_frequent
+Combien	7	1	unigramme_majuscule_frequent
+Dirige	7	1	unigramme_majuscule_frequent
+Ecoutez-moi	7	1	unigramme_majuscule_frequent
+F	7	1	unigramme_majuscule_frequent
+Gorm	7	1	unigramme_majuscule_frequent
+Haut	7	1	unigramme_majuscule_frequent
+Haut Rodric	7	2	2gramme_nominal_majuscule
+Jamais	7	1	unigramme_majuscule_frequent
+L'étudiant	7	1	unigramme_majuscule_frequent
+Lathan	7	1	unigramme_majuscule_frequent
+Lathan Devers	7	2	2gramme_nominal_majuscule
+Lefkin	7	1	unigramme_majuscule_frequent
+Lens	7	1	unigramme_majuscule_frequent
+Là	7	1	unigramme_majuscule_frequent
+Ovall	7	1	unigramme_majuscule_frequent
+Parfait	7	1	unigramme_majuscule_frequent
+Parma	7	1	unigramme_majuscule_frequent
+Pelleas Anthor	7	2	2gramme_nominal_majuscule
+Quelque	7	1	unigramme_majuscule_frequent
+Rodric	7	1	unigramme_majuscule_frequent
+Anciens	6	1	unigramme_majuscule_frequent
+Arkady	6	1	unigramme_majuscule_frequent
+Celui-ci	6	1	unigramme_majuscule_frequent
+Certainement	6	1	unigramme_majuscule_frequent
+Chaque	6	1	unigramme_majuscule_frequent
+Continuez	6	1	unigramme_majuscule_frequent
+D'accord	6	1	unigramme_majuscule_frequent
+Dornick	6	1	unigramme_majuscule_frequent
+End	6	1	unigramme_majuscule_frequent
+Impossible	6	1	unigramme_majuscule_frequent
+Indépendants	6	1	unigramme_majuscule_frequent
+Jaim	6	1	unigramme_majuscule_frequent
+L'autre	6	1	unigramme_majuscule_frequent
+L'histoire	6	1	unigramme_majuscule_frequent
+Laissez-moi	6	1	unigramme_majuscule_frequent
+Leur	6	1	unigramme_majuscule_frequent
+Malheureusement	6	1	unigramme_majuscule_frequent
+Marchands Indépendants	6	2	2gramme_nominal_majuscule
+Nul	6	1	unigramme_majuscule_frequent
+Nébuleuse	6	1	unigramme_majuscule_frequent
+O	6	1	unigramme_majuscule_frequent
+Palver	6	1	unigramme_majuscule_frequent
+Pensez-vous	6	1	unigramme_majuscule_frequent
+Poli	6	1	unigramme_majuscule_frequent
+Poochie	6	1	unigramme_majuscule_frequent
+Procureur	6	1	unigramme_majuscule_frequent
+Renard	6	1	unigramme_majuscule_frequent
+Savez-vous	6	1	unigramme_majuscule_frequent
+Selon	6	1	unigramme_majuscule_frequent
+Sinon	6	1	unigramme_majuscule_frequent
+Siwennien	6	1	unigramme_majuscule_frequent
+Star's	6	1	unigramme_majuscule_frequent
+Star's End	6	2	2gramme_nominal_majuscule
+Visi-Sonor	6	1	unigramme_majuscule_frequent
+Absolument	5	1	unigramme_majuscule_frequent
+Askone	5	1	unigramme_majuscule_frequent
+Asper	5	1	unigramme_majuscule_frequent
+Cassandre	5	1	unigramme_majuscule_frequent
+Celui	5	1	unigramme_majuscule_frequent
+Certes	5	1	unigramme_majuscule_frequent
+Dix	5	1	unigramme_majuscule_frequent
+Far	5	1	unigramme_majuscule_frequent
+Far Star	5	2	2gramme_nominal_majuscule
+Gaal Dornick	5	2	2gramme_nominal_majuscule
+Gardez	5	1	unigramme_majuscule_frequent
+Gilmer	5	1	unigramme_majuscule_frequent
+Hum	5	1	unigramme_majuscule_frequent
+Inutile	5	1	unigramme_majuscule_frequent
+Jaim Twer	5	2	2gramme_nominal_majuscule
+Jorane	5	1	unigramme_majuscule_frequent
+Jorane Sutt	5	2	2gramme_nominal_majuscule
+Juddee	5	1	unigramme_majuscule_frequent
+L'astronef	5	1	unigramme_majuscule_frequent
+Leurs	5	1	unigramme_majuscule_frequent
+Magnifiée	5	1	unigramme_majuscule_frequent
+Parlez	5	1	unigramme_majuscule_frequent
+Puis-je	5	1	unigramme_majuscule_frequent
+Qu'en	5	1	unigramme_majuscule_frequent
+Quant	5	1	unigramme_majuscule_frequent
+Quelqu'un	5	1	unigramme_majuscule_frequent
+Quels	5	1	unigramme_majuscule_frequent
+Six	5	1	unigramme_majuscule_frequent
+Sous	5	1	unigramme_majuscule_frequent
+Star	5	1	unigramme_majuscule_frequent
+Supposez	5	1	unigramme_majuscule_frequent
+T	5	1	unigramme_majuscule_frequent
+Vos	5	1	unigramme_majuscule_frequent
+Voyez-vous	5	1	unigramme_majuscule_frequent
+Ai-je	4	1	unigramme_majuscule_frequent
+Allez	4	1	unigramme_majuscule_frequent
+Altesse	4	1	unigramme_majuscule_frequent
+Apparemment	4	1	unigramme_majuscule_frequent
+Bah	4	1	unigramme_majuscule_frequent
+Cassandre Seldon	4	2	2gramme_nominal_majuscule
+Cenn	4	1	unigramme_majuscule_frequent
+Cent	4	1	unigramme_majuscule_frequent
+Ceux	4	1	unigramme_majuscule_frequent
+Chacun	4	1	unigramme_majuscule_frequent
+Croyez-vous	4	1	unigramme_majuscule_frequent
+D'autres	4	1	unigramme_majuscule_frequent
+D'où	4	1	unigramme_majuscule_frequent
+D'une	4	1	unigramme_majuscule_frequent
+Dagobert	4	1	unigramme_majuscule_frequent
+Derrière	4	1	unigramme_majuscule_frequent
+Encyclopédistes	4	1	unigramme_majuscule_frequent
+Ensuite	4	1	unigramme_majuscule_frequent
+Est-il	4	1	unigramme_majuscule_frequent
+Excusez-moi	4	1	unigramme_majuscule_frequent
+Finalement	4	1	unigramme_majuscule_frequent
+Jord Parma	4	2	2gramme_nominal_majuscule
+Kalganiens	4	1	unigramme_majuscule_frequent
+L'un	4	1	unigramme_majuscule_frequent
+Lee Senter	4	2	2gramme_nominal_majuscule
+Maire Hardin	4	2	2gramme_nominal_majuscule
+Manlio	4	1	unigramme_majuscule_frequent
+Meirus	4	1	unigramme_majuscule_frequent
+N'est-ce	4	1	unigramme_majuscule_frequent
+Nos	4	1	unigramme_majuscule_frequent
+PDQ	4	1	unigramme_majuscule_frequent
+Personne	4	1	unigramme_majuscule_frequent
+Prenez	4	1	unigramme_majuscule_frequent
+Regardez	4	1	unigramme_majuscule_frequent
+Santanni	4	1	unigramme_majuscule_frequent
+Seigneur Stettin	4	2	titre_suivi_nom
+Seul	4	1	unigramme_majuscule_frequent
+Seulement	4	1	unigramme_majuscule_frequent
+Simplement	4	1	unigramme_majuscule_frequent
+Smyrnien	4	1	unigramme_majuscule_frequent
+Soleil	4	1	unigramme_majuscule_frequent
+Songez	4	1	unigramme_majuscule_frequent
+Tiens	4	1	unigramme_majuscule_frequent
+Tinter	4	1	unigramme_majuscule_frequent
+Toujours	4	1	unigramme_majuscule_frequent
+Trois	4	1	unigramme_majuscule_frequent
+Voyez	4	1	unigramme_majuscule_frequent
+Walto	4	1	unigramme_majuscule_frequent
+Y	4	1	unigramme_majuscule_frequent
+Yohan	4	1	unigramme_majuscule_frequent
+Yohan Lee	4	2	2gramme_nominal_majuscule
+Allez-y	3	1	unigramme_majuscule_frequent
+Ankor	3	1	unigramme_majuscule_frequent
+Ankor Jael	3	2	2gramme_nominal_majuscule
+Argo	3	1	unigramme_majuscule_frequent
+Arrêtez-le	3	1	unigramme_majuscule_frequent
+Askoniens	3	1	unigramme_majuscule_frequent
+Autant	3	1	unigramme_majuscule_frequent
+Autrement	3	1	unigramme_majuscule_frequent
+Bayta Magnifico	3	2	2gramme_nominal_majuscule
+Ceci	3	1	unigramme_majuscule_frequent
+Cinquante	3	1	unigramme_majuscule_frequent
+Commodore Asper	3	2	titre_suivi_nom
+Comprenez	3	1	unigramme_majuscule_frequent
+Connaissez-vous	3	1	unigramme_majuscule_frequent
+Considérez	3	1	unigramme_majuscule_frequent
+D'autre	3	1	unigramme_majuscule_frequent
+Donnez-moi	3	1	unigramme_majuscule_frequent
+Durant	3	1	unigramme_majuscule_frequent
+Désolé	3	1	unigramme_majuscule_frequent
+Désormais	3	1	unigramme_majuscule_frequent
+Elvett	3	1	unigramme_majuscule_frequent
+Emmenez-le	3	1	unigramme_majuscule_frequent
+Entre	3	1	unigramme_majuscule_frequent
+Erlking	3	1	unigramme_majuscule_frequent
+Exact	3	1	unigramme_majuscule_frequent
+FRQWUHF	3	1	unigramme_majuscule_frequent
+Faites	3	1	unigramme_majuscule_frequent
+Fort	3	1	unigramme_majuscule_frequent
+Gente	3	1	unigramme_majuscule_frequent
+Grand Pillage	3	2	2gramme_nominal_majuscule
+Grand Prêtre	3	2	2gramme_nominal_majuscule
+Grande	3	1	unigramme_majuscule_frequent
+Gri	3	1	unigramme_majuscule_frequent
+Guerre	3	1	unigramme_majuscule_frequent
+Hangar	3	1	unigramme_majuscule_frequent
+Hein	3	1	unigramme_majuscule_frequent
+Hmm	3	1	unigramme_majuscule_frequent
+Ici	3	1	unigramme_majuscule_frequent
+Impériales	3	1	unigramme_majuscule_frequent
+Jord Commason	3	2	2gramme_nominal_majuscule
+Jord Fara	3	2	2gramme_nominal_majuscule
+Jusqu'à	3	1	unigramme_majuscule_frequent
+Kalgan Kalgan	3	2	2gramme_nominal_majuscule
+Korellienne	3	1	unigramme_majuscule_frequent
+Korelliens	3	1	unigramme_majuscule_frequent
+LE	3	1	unigramme_majuscule_frequent
+LES	3	1	unigramme_majuscule_frequent
+Lewis	3	1	unigramme_majuscule_frequent
+Locris	3	1	unigramme_majuscule_frequent
+Lorsqu'il	3	1	unigramme_majuscule_frequent
+Luk	3	1	unigramme_majuscule_frequent
+Maire Indbur	3	2	2gramme_nominal_majuscule
+Malgré	3	1	unigramme_majuscule_frequent
+Messieurs	3	1	unigramme_majuscule_frequent
+Monseigneur	3	1	unigramme_majuscule_frequent
+Narovi	3	1	unigramme_majuscule_frequent
+Ni	3	1	unigramme_majuscule_frequent
+Nouvelles	3	1	unigramme_majuscule_frequent
+Nouvelles Impériales	3	2	2gramme_nominal_majuscule
+Nulle	3	1	unigramme_majuscule_frequent
+Néanmoins	3	1	unigramme_majuscule_frequent
+Oh Torie	3	2	2gramme_nominal_majuscule
+Olynthus	3	1	unigramme_majuscule_frequent
+Ovall Gri	3	2	2gramme_nominal_majuscule
+Parlons	3	1	unigramme_majuscule_frequent
+Peuh	3	1	unigramme_majuscule_frequent
+Pillage	3	1	unigramme_majuscule_frequent
+Pouvez-vous	3	1	unigramme_majuscule_frequent
+Prêtre	3	1	unigramme_majuscule_frequent
+Père	3	1	unigramme_majuscule_frequent
+Qu'allez-vous	3	1	unigramme_majuscule_frequent
+Qu'avez-vous	3	1	unigramme_majuscule_frequent
+Qu'il	3	1	unigramme_majuscule_frequent
+Restez	3	1	unigramme_majuscule_frequent
+Rossemites	3	1	unigramme_majuscule_frequent
+Secundo	3	1	unigramme_majuscule_frequent
+Sef	3	1	unigramme_majuscule_frequent
+Sef Sermak	3	2	2gramme_nominal_majuscule
+Seuls	3	1	unigramme_majuscule_frequent
+Soudain	3	1	unigramme_majuscule_frequent
+Supposons	3	1	unigramme_majuscule_frequent
+Tandis	3	1	unigramme_majuscule_frequent
+Tant	3	1	unigramme_majuscule_frequent
+Tertio	3	1	unigramme_majuscule_frequent
+Toutefois	3	1	unigramme_majuscule_frequent
+Venez	3	1	unigramme_majuscule_frequent
+Voudriez-vous	3	1	unigramme_majuscule_frequent
+Wiscard	3	1	unigramme_majuscule_frequent
+Actuellement	2	1	unigramme_majuscule_frequent
+Adieu	2	1	unigramme_majuscule_frequent
+Agir	2	1	unigramme_majuscule_frequent
+Allez-vous	2	1	unigramme_majuscule_frequent
+Anselme	2	1	unigramme_majuscule_frequent
+Anselme Haut	2	2	2gramme_nominal_majuscule
+Anselme Haut Rodric	2	3	3gramme_nominal_majuscule
+Appelez	2	1	unigramme_majuscule_frequent
+Asper Argo	2	2	2gramme_nominal_majuscule
+Assez	2	1	unigramme_majuscule_frequent
+Auguste	2	1	unigramme_majuscule_frequent
+Aujourd'hui	2	1	unigramme_majuscule_frequent
+Aurais-je	2	1	unigramme_majuscule_frequent
+Aussitôt	2	1	unigramme_majuscule_frequent
+Autre	2	1	unigramme_majuscule_frequent
+Autrefois	2	1	unigramme_majuscule_frequent
+Avakim	2	1	unigramme_majuscule_frequent
+Avancez	2	1	unigramme_majuscule_frequent
+Bayta Où	2	2	2gramme_nominal_majuscule
+Bien Maintenant	2	2	2gramme_nominal_majuscule
+Bien-Aimé	2	1	unigramme_majuscule_frequent
+Canal	2	1	unigramme_majuscule_frequent
+Capitaine Pritcher	2	2	titre_suivi_nom
+Cartels	2	1	unigramme_majuscule_frequent
+Certains	2	1	unigramme_majuscule_frequent
+Chacune	2	1	unigramme_majuscule_frequent
+Chen	2	1	unigramme_majuscule_frequent
+Compris	2	1	unigramme_majuscule_frequent
+Convention	2	1	unigramme_majuscule_frequent
+Crast	2	1	unigramme_majuscule_frequent
+Croyez	2	1	unigramme_majuscule_frequent
+Curieux	2	1	unigramme_majuscule_frequent
+D'abord	2	1	unigramme_majuscule_frequent
+D'après	2	1	unigramme_majuscule_frequent
+Debout	2	1	unigramme_majuscule_frequent
+Dehors	2	1	unigramme_majuscule_frequent
+Dernier	2	1	unigramme_majuscule_frequent
+Disons	2	1	unigramme_majuscule_frequent
+Dites	2	1	unigramme_majuscule_frequent
+Dites-leur	2	1	unigramme_majuscule_frequent
+Dixyl	2	1	unigramme_majuscule_frequent
+Elvett Semic	2	2	2gramme_nominal_majuscule
+Ensemble	2	1	unigramme_majuscule_frequent
+Entendu	2	1	unigramme_majuscule_frequent
+Environ	2	1	unigramme_majuscule_frequent
+Eskel	2	1	unigramme_majuscule_frequent
+Eskel Gorov	2	2	2gramme_nominal_majuscule
+Esprit	2	1	unigramme_majuscule_frequent
+Etant	2	1	unigramme_majuscule_frequent
+Etoiles	2	1	unigramme_majuscule_frequent
+Existe-t-il	2	1	unigramme_majuscule_frequent
+Fais	2	1	unigramme_majuscule_frequent
+Femme	2	1	unigramme_majuscule_frequent
+Fichtre	2	1	unigramme_majuscule_frequent
+Filien	2	1	unigramme_majuscule_frequent
+Franchement	2	1	unigramme_majuscule_frequent
+Fulham	2	1	unigramme_majuscule_frequent
+Gamma	2	1	unigramme_majuscule_frequent
+Gentri	2	1	unigramme_majuscule_frequent
+Ha'din	2	1	unigramme_majuscule_frequent
+Hella	2	1	unigramme_majuscule_frequent
+Hmmm	2	1	unigramme_majuscule_frequent
+Holk	2	1	unigramme_majuscule_frequent
+Homo	2	1	unigramme_majuscule_frequent
+Hé	2	1	unigramme_majuscule_frequent
+Ier	2	1	unigramme_majuscule_frequent
+Imaginez	2	1	unigramme_majuscule_frequent
+Impossible Impossible	2	2	2gramme_nominal_majuscule
+Inscrivez	2	1	unigramme_majuscule_frequent
+Iwo	2	1	unigramme_majuscule_frequent
+Jerril	2	1	unigramme_majuscule_frequent
+Journal	2	1	unigramme_majuscule_frequent
+Jusqu'ici	2	1	unigramme_majuscule_frequent
+Juste	2	1	unigramme_majuscule_frequent
+K	2	1	unigramme_majuscule_frequent
+L'Association	2	1	unigramme_majuscule_frequent
+L'Avenir	2	1	unigramme_majuscule_frequent
+L'Empire	2	1	unigramme_majuscule_frequent
+L'amiral	2	1	unigramme_majuscule_frequent
+L'ascenseur	2	1	unigramme_majuscule_frequent
+L'employé	2	1	unigramme_majuscule_frequent
+L'espace	2	1	unigramme_majuscule_frequent
+L'idée	2	1	unigramme_majuscule_frequent
+L'obscurité	2	1	unigramme_majuscule_frequent
+L'ombre	2	1	unigramme_majuscule_frequent
+L'une	2	1	unigramme_majuscule_frequent
+L'équipage	2	1	unigramme_majuscule_frequent
+Laisse-moi	2	1	unigramme_majuscule_frequent
+Lameth	2	1	unigramme_majuscule_frequent
+Leemor	2	1	unigramme_majuscule_frequent
+Lemul	2	1	unigramme_majuscule_frequent
+Lewis Bort	2	2	2gramme_nominal_majuscule
+Lieutenant	2	1	unigramme_majuscule_frequent
+Lors	2	1	unigramme_majuscule_frequent
+Lorsqu'ils	2	1	unigramme_majuscule_frequent
+Madame	2	1	unigramme_majuscule_frequent
+Mallow Mon	2	2	2gramme_nominal_majuscule
+Mallow Ça	2	2	2gramme_nominal_majuscule
+Mangin	2	1	unigramme_majuscule_frequent
+Ministre	2	1	unigramme_majuscule_frequent
+Mis Ebling	2	2	2gramme_nominal_majuscule
+Moins	2	1	unigramme_majuscule_frequent
+Mondes	2	1	unigramme_majuscule_frequent
+Mulet S'il	2	2	2gramme_nominal_majuscule
+Newton	2	1	unigramme_majuscule_frequent
+Nobles	2	1	unigramme_majuscule_frequent
+Noth	2	1	unigramme_majuscule_frequent
+Nouvelle	2	1	unigramme_majuscule_frequent
+Onum	2	1	unigramme_majuscule_frequent
+Onum Barr	2	2	2gramme_nominal_majuscule
+Orre	2	1	unigramme_majuscule_frequent
+Orsy	2	1	unigramme_majuscule_frequent
+PREMIERE	2	1	unigramme_majuscule_frequent
+Paradis	2	1	unigramme_majuscule_frequent
+Pardonnez-moi	2	1	unigramme_majuscule_frequent
+Parlez Channis	2	2	2gramme_nominal_majuscule
+Parlez-moi	2	1	unigramme_majuscule_frequent
+Parlez-nous	2	1	unigramme_majuscule_frequent
+Parti	2	1	unigramme_majuscule_frequent
+Particulièrement	2	1	unigramme_majuscule_frequent
+Pelot	2	1	unigramme_majuscule_frequent
+Pensiez-vous	2	1	unigramme_majuscule_frequent
+Peurifoy	2	1	unigramme_majuscule_frequent
+Peut	2	1	unigramme_majuscule_frequent
+Pi'enne	2	1	unigramme_majuscule_frequent
+Pléiades	2	1	unigramme_majuscule_frequent
+Pouvons-nous	2	1	unigramme_majuscule_frequent
+Preem	2	1	unigramme_majuscule_frequent
+Preem Palver	2	2	2gramme_nominal_majuscule
+Puisque	2	1	unigramme_majuscule_frequent
+Q	2	1	unigramme_majuscule_frequent
+Qu	2	1	unigramme_majuscule_frequent
+Quarante	2	1	unigramme_majuscule_frequent
+Radole	2	1	unigramme_majuscule_frequent
+Reconnaissants	2	1	unigramme_majuscule_frequent
+Regardez-moi	2	1	unigramme_majuscule_frequent
+Reste	2	1	unigramme_majuscule_frequent
+Ridicule	2	1	unigramme_majuscule_frequent
+Réfléchissez	2	1	unigramme_majuscule_frequent
+Répétez	2	1	unigramme_majuscule_frequent
+SELDON	2	1	unigramme_majuscule_frequent
+Sciences	2	1	unigramme_majuscule_frequent
+Seigneurie	2	1	unigramme_majuscule_frequent
+Seldon Oh	2	2	2gramme_nominal_majuscule
+Sennett	2	1	unigramme_majuscule_frequent
+Sennett Forell	2	2	2gramme_nominal_majuscule
+Seule	2	1	unigramme_majuscule_frequent
+Stanmark	2	1	unigramme_majuscule_frequent
+Suivit	2	1	unigramme_majuscule_frequent
+Surtout	2	1	unigramme_majuscule_frequent
+Tel	2	1	unigramme_majuscule_frequent
+Tels	2	1	unigramme_majuscule_frequent
+Temples	2	1	unigramme_majuscule_frequent
+Toran Ça	2	2	2gramme_nominal_majuscule
+Trahison	2	1	unigramme_majuscule_frequent
+Trop	2	1	unigramme_majuscule_frequent
+Ultra-secret	2	1	unigramme_majuscule_frequent
+Union	2	1	unigramme_majuscule_frequent
+Venant	2	1	unigramme_majuscule_frequent
+Vincetori	2	1	unigramme_majuscule_frequent
+Vite	2	1	unigramme_majuscule_frequent
+Vivant	2	1	unigramme_majuscule_frequent
+Voyage	2	1	unigramme_majuscule_frequent
+XU	2	1	unigramme_majuscule_frequent
+Yate	2	1	unigramme_majuscule_frequent
+Yate Fulham	2	2	2gramme_nominal_majuscule
+Zéon	2	1	unigramme_majuscule_frequent
+Abasourdie Bayta	1	2	2gramme_nominal_majuscule
+Affaires Etrangères	1	2	2gramme_nominal_majuscule
+Aidez-moi Turbor	1	2	2gramme_nominal_majuscule
+Allez-y Pelleas	1	2	2gramme_nominal_majuscule
+Anciens C'étaient	1	2	2gramme_nominal_majuscule
+Anthor Allez	1	2	2gramme_nominal_majuscule
+Anthor Arcadia	1	2	2gramme_nominal_majuscule
+Anthor Ceci	1	2	2gramme_nominal_majuscule
+Anthor Croyez	1	2	2gramme_nominal_majuscule
+Anthor L'appareil	1	2	2gramme_nominal_majuscule
+Anthor Quelqu'un	1	2	2gramme_nominal_majuscule
+Anthor Seldon	1	2	2gramme_nominal_majuscule
+Anthor Terminez	1	2	2gramme_nominal_majuscule
+Anthor Vingt-neuf	1	2	2gramme_nominal_majuscule
+Aporat Commencez	1	2	2gramme_nominal_majuscule
+Aporat Lefkin	1	2	2gramme_nominal_majuscule
+Arcadia Combien	1	2	2gramme_nominal_majuscule
+Arcadia Darell	1	2	2gramme_nominal_majuscule
+Arcadia Inscrivez	1	2	2gramme_nominal_majuscule
+Arcadia Justement	1	2	2gramme_nominal_majuscule
+Arcadia Merci	1	2	2gramme_nominal_majuscule
+Arcadia Palver	1	2	2gramme_nominal_majuscule
+Arkady Lentement	1	2	2gramme_nominal_majuscule
+Arkady Mes	1	2	2gramme_nominal_majuscule
+Asseyez-vous Devers	1	2	2gramme_nominal_majuscule
+Asseyez-vous Hardin	1	2	2gramme_nominal_majuscule
+Asseyez-vous Pritcher	1	2	2gramme_nominal_majuscule
+Asseyez-vous Sef	1	2	2gramme_nominal_majuscule
+Attendez Asseyez-vous	1	2	2gramme_nominal_majuscule
+Attendez Seldon	1	2	2gramme_nominal_majuscule
+Ayant Kalgan	1	2	2gramme_nominal_majuscule
+Aînés Pherl	1	2	2gramme_nominal_majuscule
+Bah Gouverneurs	1	2	2gramme_nominal_majuscule
+Balbutiant Ovall	1	2	2gramme_nominal_majuscule
+Barr Examinez	1	2	2gramme_nominal_majuscule
+Barr Naturellement	1	2	2gramme_nominal_majuscule
+Barr Trente-cinq	1	2	2gramme_nominal_majuscule
+Barr Ça	1	2	2gramme_nominal_majuscule
+Bay Entre	1	2	2gramme_nominal_majuscule
+Bay J'avais	1	2	2gramme_nominal_majuscule
+Bay Randu	1	2	2gramme_nominal_majuscule
+Bayta Bayta	1	2	2gramme_nominal_majuscule
+Bayta Darell	1	2	2gramme_nominal_majuscule
+Bayta Est-ce	1	2	2gramme_nominal_majuscule
+Bayta Laissez-moi	1	2	2gramme_nominal_majuscule
+Bayta Notre	1	2	2gramme_nominal_majuscule
+Bayta Pritcher	1	2	2gramme_nominal_majuscule
+Bayta Te	1	2	2gramme_nominal_majuscule
+Bayta Toran	1	2	2gramme_nominal_majuscule
+Bien Parlons	1	2	2gramme_nominal_majuscule
+Bonjour Milla	1	2	2gramme_nominal_majuscule
+Brodrig Attendez	1	2	2gramme_nominal_majuscule
+Brodrig Figurez-vous	1	2	2gramme_nominal_majuscule
+Building Hardin	1	2	2gramme_nominal_majuscule
+Calmez-vous Gorov	1	2	2gramme_nominal_majuscule
+Canal Attends	1	2	2gramme_nominal_majuscule
+Capitaine Han	1	2	titre_suivi_nom
+Capitaine Han Pritcher	1	3	titre_suivi_nom
+Cartels Là-bas	1	2	2gramme_nominal_majuscule
+Certainement Ça	1	2	2gramme_nominal_majuscule
+Channis Ai-je	1	2	2gramme_nominal_majuscule
+Channis J'aurais	1	2	2gramme_nominal_majuscule
+Channis Ma	1	2	2gramme_nominal_majuscule
+Channis Sont-ce	1	2	2gramme_nominal_majuscule
+Cléon Ier	1	2	2gramme_nominal_majuscule
+Commission Seldon	1	2	2gramme_nominal_majuscule
+Commodore Asper Argo	1	3	titre_suivi_nom
+Commodore Ecoutez	1	2	titre_suivi_nom
+Commodore Hmm	1	2	titre_suivi_nom
+Commodore Mademoiselle	1	2	titre_suivi_nom
+Comprenez Randu	1	2	2gramme_nominal_majuscule
+Continuez Excellence	1	2	2gramme_nominal_majuscule
+Continuez Parlez-nous	1	2	2gramme_nominal_majuscule
+D'horreur Channis	1	2	2gramme_nominal_majuscule
+Dagobert Où	1	2	2gramme_nominal_majuscule
+Dame Cailla	1	2	titre_suivi_nom
+Dame Ridicule	1	2	titre_suivi_nom
+Dame Ridicule Passe	1	3	titre_suivi_nom
+Darell Allons-nous-en	1	2	2gramme_nominal_majuscule
+Darell Bien	1	2	2gramme_nominal_majuscule
+Darell Finalement	1	2	2gramme_nominal_majuscule
+Darell Fort	1	2	2gramme_nominal_majuscule
+Darell Qu'est-ce	1	2	2gramme_nominal_majuscule
+Darell Tel	1	2	2gramme_nominal_majuscule
+Darell Tenez	1	2	2gramme_nominal_majuscule
+Darell Voulez-vous	1	2	2gramme_nominal_majuscule
+Debout Channis	1	2	2gramme_nominal_majuscule
+Devers Apaisez	1	2	2gramme_nominal_majuscule
+Devers Riose	1	2	2gramme_nominal_majuscule
+Dites-moi Indbur	1	2	2gramme_nominal_majuscule
+Dixyl L'escadre	1	2	2gramme_nominal_majuscule
+Docteur Darell	1	2	titre_suivi_nom
+Docteur Mis	1	2	titre_suivi_nom
+Docteur Seldon	1	2	titre_suivi_nom
+Dokor Walto	1	2	2gramme_nominal_majuscule
+Donnez Immunité	1	2	2gramme_nominal_majuscule
+Dornick S	1	2	2gramme_nominal_majuscule
+Désolé Twer	1	2	2gramme_nominal_majuscule
+Détruits Oh	1	2	2gramme_nominal_majuscule
+Ebling D'autres	1	2	2gramme_nominal_majuscule
+Ebling Est-ce	1	2	2gramme_nominal_majuscule
+Ebling Où	1	2	2gramme_nominal_majuscule
+Ecoute-la Randu	1	2	2gramme_nominal_majuscule
+Ecoutez Ebling	1	2	2gramme_nominal_majuscule
+Ecoutez Jael	1	2	2gramme_nominal_majuscule
+Ecoutez Ponyets	1	2	2gramme_nominal_majuscule
+Ecoutez-moi Anthor	1	2	2gramme_nominal_majuscule
+Elvett Voici	1	2	2gramme_nominal_majuscule
+End Jamais	1	2	2gramme_nominal_majuscule
+Esprit Pherl	1	2	2gramme_nominal_majuscule
+Etoiles Rouges	1	2	2gramme_nominal_majuscule
+Etoiles Sombres	1	2	2gramme_nominal_majuscule
+Exact Ecoutez	1	2	2gramme_nominal_majuscule
+Exact L'autre	1	2	2gramme_nominal_majuscule
+Exactement Sire	1	2	2gramme_nominal_majuscule
+Excellence Pourtant	1	2	2gramme_nominal_majuscule
+Excusez-moi Elvett	1	2	2gramme_nominal_majuscule
+Facilement S	1	2	2gramme_nominal_majuscule
+Fara Veuillez	1	2	2gramme_nominal_majuscule
+Fennel Leemor	1	2	2gramme_nominal_majuscule
+Fichtre Quarante	1	2	2gramme_nominal_majuscule
+Filez Bayta	1	2	2gramme_nominal_majuscule
+Forell Attendez	1	2	2gramme_nominal_majuscule
+Forell Voici	1	2	2gramme_nominal_majuscule
+Foundation Traduction	1	2	2gramme_nominal_majuscule
+Fran Devers	1	2	2gramme_nominal_majuscule
+Fulham Oh	1	2	2gramme_nominal_majuscule
+Gaal L'homme	1	2	2gramme_nominal_majuscule
+Gaal Mon	1	2	2gramme_nominal_majuscule
+Gentri Leur	1	2	2gramme_nominal_majuscule
+Gilmer Ensemble	1	2	2gramme_nominal_majuscule
+Gorov Autant	1	2	2gramme_nominal_majuscule
+Gouvernement Impérial	1	2	2gramme_nominal_majuscule
+Grand Maitre	1	2	2gramme_nominal_majuscule
+Ha'din Pardon	1	2	2gramme_nominal_majuscule
+Hangar Toran	1	2	2gramme_nominal_majuscule
+Hardin Entre	1	2	2gramme_nominal_majuscule
+Hardin Excellence	1	2	2gramme_nominal_majuscule
+Hardin L'ouverture	1	2	2gramme_nominal_majuscule
+Hardin Moi	1	2	2gramme_nominal_majuscule
+Hardin Pirenne	1	2	2gramme_nominal_majuscule
+Hardin Publis	1	2	2gramme_nominal_majuscule
+Hardin Simplement	1	2	2gramme_nominal_majuscule
+Hart Où	1	2	2gramme_nominal_majuscule
+Hein Bort	1	2	2gramme_nominal_majuscule
+Historiques Là	1	2	2gramme_nominal_majuscule
+Hm-m-m Inutile	1	2	2gramme_nominal_majuscule
+Hmm Désolé	1	2	2gramme_nominal_majuscule
+Hmmm Mallow	1	2	2gramme_nominal_majuscule
+Homir Allez-y	1	2	2gramme_nominal_majuscule
+Hortnir Munn	1	2	2gramme_nominal_majuscule
+Humm Voyons	1	2	2gramme_nominal_majuscule
+Indbur Jugez	1	2	2gramme_nominal_majuscule
+Indbur Quatre	1	2	2gramme_nominal_majuscule
+Inscrivez Arcadia	1	2	2gramme_nominal_majuscule
+Jael L'image	1	2	2gramme_nominal_majuscule
+Jael Qu'allez-vous	1	2	2gramme_nominal_majuscule
+Jaim Orsy	1	2	2gramme_nominal_majuscule
+Joie Turbor	1	2	2gramme_nominal_majuscule
+Jusque-là Fara	1	2	2gramme_nominal_majuscule
+K Jord	1	2	2gramme_nominal_majuscule
+Kalgan Bourrée	1	2	2gramme_nominal_majuscule
+Kalgan Chaque	1	2	2gramme_nominal_majuscule
+Kalgan Darell	1	2	2gramme_nominal_majuscule
+Kalgan Hé	1	2	2gramme_nominal_majuscule
+Kalgan J'avais	1	2	2gramme_nominal_majuscule
+Kalgan Quels	1	2	2gramme_nominal_majuscule
+Kalgan Seuls	1	2	2gramme_nominal_majuscule
+Kalgan Turbor	1	2	2gramme_nominal_majuscule
+Kleise Cinq	1	2	2gramme_nominal_majuscule
+Kleise Munn	1	2	2gramme_nominal_majuscule
+Korellienne Mallow	1	2	2gramme_nominal_majuscule
+L'autre Commason	1	2	2gramme_nominal_majuscule
+Laissez-moi Ebling	1	2	2gramme_nominal_majuscule
+Lameth Figu'ez-vous	1	2	2gramme_nominal_majuscule
+Lee Toujours	1	2	2gramme_nominal_majuscule
+Lemul L'Amas	1	2	2gramme_nominal_majuscule
+Lepold Ier	1	2	2gramme_nominal_majuscule
+Lev Meirus	1	2	2gramme_nominal_majuscule
+Levi Norast	1	2	2gramme_nominal_majuscule
+Lewis Pirenne	1	2	2gramme_nominal_majuscule
+Libérez-le Renvoyez-le	1	2	2gramme_nominal_majuscule
+Libérez-nous Bayta	1	2	2gramme_nominal_majuscule
+Limmar Ponyets	1	2	2gramme_nominal_majuscule
+Lo Moro	1	2	2gramme_nominal_majuscule
+Locris Hardin	1	2	2gramme_nominal_majuscule
+Lors Avakim	1	2	2gramme_nominal_majuscule
+Lumières Hommes	1	2	2gramme_nominal_majuscule
+Lundin Crast	1	2	2gramme_nominal_majuscule
+Mad Vraiment	1	2	2gramme_nominal_majuscule
+Magnifico Joue	1	2	2gramme_nominal_majuscule
+Magnifiée Giganticus	1	2	2gramme_nominal_majuscule
+Maintenant Lee	1	2	2gramme_nominal_majuscule
+Maire Chacun	1	2	2gramme_nominal_majuscule
+Maire Excellence	1	2	2gramme_nominal_majuscule
+Mallow Agrandissez	1	2	2gramme_nominal_majuscule
+Mallow Branchez	1	2	2gramme_nominal_majuscule
+Mallow Considérez	1	2	2gramme_nominal_majuscule
+Mallow Hall	1	2	2gramme_nominal_majuscule
+Mallow Parfait	1	2	2gramme_nominal_majuscule
+Mallow Qu'ils	1	2	2gramme_nominal_majuscule
+Mallow Se	1	2	2gramme_nominal_majuscule
+Maman Aurait-il	1	2	2gramme_nominal_majuscule
+Maman Ferme	1	2	2gramme_nominal_majuscule
+Maman L'homme	1	2	2gramme_nominal_majuscule
+Marchands Mallow	1	2	2gramme_nominal_majuscule
+Marchands Port	1	2	2gramme_nominal_majuscule
+Me'veilleux V'aiment	1	2	2gramme_nominal_majuscule
+Meirus Mon	1	2	2gramme_nominal_majuscule
+Mis Celui-ci	1	2	2gramme_nominal_majuscule
+Mis Toran	1	2	2gramme_nominal_majuscule
+Moi Pensez-vous	1	2	2gramme_nominal_majuscule
+Mori Luk	1	2	2gramme_nominal_majuscule
+Mulet Channis	1	2	2gramme_nominal_majuscule
+Mulet D'accord	1	2	2gramme_nominal_majuscule
+Mulet Depuis	1	2	2gramme_nominal_majuscule
+Mulet Est-il	1	2	2gramme_nominal_majuscule
+Mulet Gagner	1	2	2gramme_nominal_majuscule
+Mulet Garre	1	2	2gramme_nominal_majuscule
+Mulet Grande	1	2	2gramme_nominal_majuscule
+Mulet L'effondrement	1	2	2gramme_nominal_majuscule
+Mulet Parlez-moi	1	2	2gramme_nominal_majuscule
+Mulet Peu	1	2	2gramme_nominal_majuscule
+Mulet Toran	1	2	2gramme_nominal_majuscule
+Mulet Vraiment	1	2	2gramme_nominal_majuscule
+Mulets Quelles	1	2	2gramme_nominal_majuscule
+Munn Curieux	1	2	2gramme_nominal_majuscule
+Munn J'y	1	2	2gramme_nominal_majuscule
+Munn Semic	1	2	2gramme_nominal_majuscule
+Naturellement Qu'avons-nous	1	2	2gramme_nominal_majuscule
+Norast Celui-ci	1	2	2gramme_nominal_majuscule
+Nouvel An	1	2	2gramme_nominal_majuscule
+Nulles Autorité	1	2	2gramme_nominal_majuscule
+Néotrantor Nouvelle	1	2	2gramme_nominal_majuscule
+Néotrantor Oh	1	2	2gramme_nominal_majuscule
+O Homo	1	2	2gramme_nominal_majuscule
+Oh Hardin	1	2	2gramme_nominal_majuscule
+Oh Mad	1	2	2gramme_nominal_majuscule
+Oh Partant	1	2	2gramme_nominal_majuscule
+Oh Toran	1	2	2gramme_nominal_majuscule
+Olynthus Dam	1	2	2gramme_nominal_majuscule
+Oncle Homir	1	2	2gramme_nominal_majuscule
+Orum Dirige	1	2	2gramme_nominal_majuscule
+P Dont	1	2	2gramme_nominal_majuscule
+P Etes-vous	1	2	2gramme_nominal_majuscule
+P Facilement	1	2	2gramme_nominal_majuscule
+P N'est-il	1	2	2gramme_nominal_majuscule
+P Oh	1	2	2gramme_nominal_majuscule
+Papa Dis	1	2	2gramme_nominal_majuscule
+Paradis Terrestre	1	2	2gramme_nominal_majuscule
+Pardon Hardin	1	2	2gramme_nominal_majuscule
+Parlez Magnifico	1	2	2gramme_nominal_majuscule
+Pax Imperium	1	2	2gramme_nominal_majuscule
+Pelot Observez	1	2	2gramme_nominal_majuscule
+Pensez-vous D'ailleurs	1	2	2gramme_nominal_majuscule
+Peuh Pirenne	1	2	2gramme_nominal_majuscule
+Phase Trois	1	2	2gramme_nominal_majuscule
+Pherl Ponyets	1	2	2gramme_nominal_majuscule
+Pierre Billon	1	2	2gramme_nominal_majuscule
+Pirenne J'imagine	1	2	2gramme_nominal_majuscule
+Plausibles N'était-ce	1	2	2gramme_nominal_majuscule
+Police Secrète	1	2	2gramme_nominal_majuscule
+Poly Verisof	1	2	2gramme_nominal_majuscule
+Ponyets Enfin	1	2	2gramme_nominal_majuscule
+Ponyets Ponyets	1	2	2gramme_nominal_majuscule
+Ponyets Puis-je	1	2	2gramme_nominal_majuscule
+Ponyets Qu'est-ce	1	2	2gramme_nominal_majuscule
+Porfirat Hart	1	2	2gramme_nominal_majuscule
+Port Sûrement	1	2	2gramme_nominal_majuscule
+Pourtant Kleise	1	2	2gramme_nominal_majuscule
+Pourtant Seldon	1	2	2gramme_nominal_majuscule
+Pritcher Gardez	1	2	2gramme_nominal_majuscule
+Pritcher Pritcher	1	2	2gramme_nominal_majuscule
+Pritcher Réveillez-vous	1	2	2gramme_nominal_majuscule
+Procureur P	1	2	2gramme_nominal_majuscule
+Prêtre D'où	1	2	2gramme_nominal_majuscule
+Publis Manlio	1	2	2gramme_nominal_majuscule
+Périphérie Cent	1	2	2gramme_nominal_majuscule
+Périphérie Où	1	2	2gramme_nominal_majuscule
+Périphérie S'il	1	2	2gramme_nominal_majuscule
+Randu Continuez	1	2	2gramme_nominal_majuscule
+Regardez Seldon	1	2	2gramme_nominal_majuscule
+Regardez-vous Ebling	1	2	2gramme_nominal_majuscule
+Renard Désolé	1	2	2gramme_nominal_majuscule
+Renard J'essaie	1	2	2gramme_nominal_majuscule
+Reste Magnifico	1	2	2gramme_nominal_majuscule
+Rhétorique Tous	1	2	2gramme_nominal_majuscule
+Ridicule Passe	1	2	2gramme_nominal_majuscule
+Rien Jael	1	2	2gramme_nominal_majuscule
+Rien Torie	1	2	2gramme_nominal_majuscule
+Riose A-t-il	1	2	2gramme_nominal_majuscule
+Riose Absolument	1	2	2gramme_nominal_majuscule
+Réfléchissez Exprimez	1	2	2gramme_nominal_majuscule
+Réveillez-vous Pritcher	1	2	2gramme_nominal_majuscule
+S Absolument	1	2	2gramme_nominal_majuscule
+S Bien	1	2	2gramme_nominal_majuscule
+S Cent	1	2	2gramme_nominal_majuscule
+S J'accepte	1	2	2gramme_nominal_majuscule
+S Songez	1	2	2gramme_nominal_majuscule
+Santanni Excellence	1	2	2gramme_nominal_majuscule
+Sciences Historiques	1	2	2gramme_nominal_majuscule
+Second Foundation	1	2	2gramme_nominal_majuscule
+Secrète Korellienne	1	2	2gramme_nominal_majuscule
+Seigneur Stellin	1	2	titre_suivi_nom
+Seldon Avez-vous	1	2	2gramme_nominal_majuscule
+Seldon Callia	1	2	2gramme_nominal_majuscule
+Seldon Chacune	1	2	2gramme_nominal_majuscule
+Seldon Connaissez-vous	1	2	2gramme_nominal_majuscule
+Seldon D'abord	1	2	2gramme_nominal_majuscule
+Seldon D'ailleurs	1	2	2gramme_nominal_majuscule
+Seldon Depuis	1	2	2gramme_nominal_majuscule
+Seldon Existe-t-il	1	2	2gramme_nominal_majuscule
+Seldon Hardin	1	2	2gramme_nominal_majuscule
+Seldon Hober	1	2	2gramme_nominal_majuscule
+Seldon Indbur	1	2	2gramme_nominal_majuscule
+Seldon L'autre	1	2	2gramme_nominal_majuscule
+Seldon L'histoire	1	2	2gramme_nominal_majuscule
+Seldon Mallow	1	2	2gramme_nominal_majuscule
+Seldon Pelleas	1	2	2gramme_nominal_majuscule
+Seldon S	1	2	2gramme_nominal_majuscule
+Seldon Sutt	1	2	2gramme_nominal_majuscule
+Seldon Toran	1	2	2gramme_nominal_majuscule
+Seldon Toutes	1	2	2gramme_nominal_majuscule
+Senter Regardez	1	2	2gramme_nominal_majuscule
+Sermak C'est-à-dire	1	2	2gramme_nominal_majuscule
+Sermak Lewis	1	2	2gramme_nominal_majuscule
+Seul Magnifico	1	2	2gramme_nominal_majuscule
+Seul Sermak	1	2	2gramme_nominal_majuscule
+Silencieusement Toran	1	2	2gramme_nominal_majuscule
+Simplement Arkady	1	2	2gramme_nominal_majuscule
+Sire L'empereur	1	2	2gramme_nominal_majuscule
+Siwennien Devers	1	2	2gramme_nominal_majuscule
+Soudain Maman	1	2	2gramme_nominal_majuscule
+Stettin D'où	1	2	2gramme_nominal_majuscule
+Stettin L'édifice	1	2	2gramme_nominal_majuscule
+Supposons-le Quelles	1	2	2gramme_nominal_majuscule
+Surveillant L'homme	1	2	2gramme_nominal_majuscule
+Sutt Mallow	1	2	2gramme_nominal_majuscule
+Sutt Parfait	1	2	2gramme_nominal_majuscule
+Sutt Sutt	1	2	2gramme_nominal_majuscule
+Symes Molff	1	2	2gramme_nominal_majuscule
+Sécurité Publique	1	2	2gramme_nominal_majuscule
+Tarki Walto	1	2	2gramme_nominal_majuscule
+Tazenda Oh	1	2	2gramme_nominal_majuscule
+Tazenda Pritcher	1	2	2gramme_nominal_majuscule
+Tazenda Vraiment	1	2	2gramme_nominal_majuscule
+Théâtre Central	1	2	2gramme_nominal_majuscule
+Tomas Sutt	1	2	2gramme_nominal_majuscule
+Toran Bayta	1	2	2gramme_nominal_majuscule
+Toran Darell	1	2	2gramme_nominal_majuscule
+Toran Dites-nous	1	2	2gramme_nominal_majuscule
+Toran Indbur	1	2	2gramme_nominal_majuscule
+Toran Pourtant	1	2	2gramme_nominal_majuscule
+Toran Quelque	1	2	2gramme_nominal_majuscule
+Toran Toutefois	1	2	2gramme_nominal_majuscule
+Toran Voyage	1	2	2gramme_nominal_majuscule
+Torie Bien	1	2	2gramme_nominal_majuscule
+Torie Où	1	2	2gramme_nominal_majuscule
+Torie Toran	1	2	2gramme_nominal_majuscule
+Turbor Anthor	1	2	2gramme_nominal_majuscule
+Turbor Hum	1	2	2gramme_nominal_majuscule
+Turbor L'analogie	1	2	2gramme_nominal_majuscule
+Turbor Turbor	1	2	2gramme_nominal_majuscule
+Ultra-secret Priorité	1	2	2gramme_nominal_majuscule
+Vincetori L'écran	1	2	2gramme_nominal_majuscule
+Vite Vite	1	2	2gramme_nominal_majuscule
+Vivant Vivant	1	2	2gramme_nominal_majuscule
+Voici L'an	1	2	2gramme_nominal_majuscule
+Voyons Bay	1	2	2gramme_nominal_majuscule
+Voyons Hardin	1	2	2gramme_nominal_majuscule
+Voyons Hella	1	2	2gramme_nominal_majuscule
+Voyons Mallow	1	2	2gramme_nominal_majuscule
+Voyons Pherl	1	2	2gramme_nominal_majuscule
+Vraiment Figure-toi	1	2	2gramme_nominal_majuscule
+Vraiment Fran	1	2	2gramme_nominal_majuscule
+Vraiment Monseigneur	1	2	2gramme_nominal_majuscule
+Vraiment Qu'avez-vous	1	2	2gramme_nominal_majuscule
+Vraiment Vraiment	1	2	2gramme_nominal_majuscule
+Véga Où	1	2	2gramme_nominal_majuscule
+Walto Bort	1	2	2gramme_nominal_majuscule
+Wienis Hardin	1	2	2gramme_nominal_majuscule
+Wienis Reconnaissants	1	2	2gramme_nominal_majuscule
+Y Unimara	1	2	2gramme_nominal_majuscule

@@ -1,0 +1,43 @@
+Génération de LP
+Source: results/lists/liste_L.txt
+Format liste: forme<TAB>frequence<TAB>n<TAB>preuve
+Méthode: filtrage déterministe de L, sans antidictionnaire externe ni NER
+
+lignes_l=21131
+candidats_examines=21131
+retenus=922
+rejetes=18791
+ambigus=1418
+occurrences_lp=5562
+retenus_n1=479
+retenus_n2=439
+retenus_n3=4
+rejetes_n1=150
+rejetes_n2=6959
+rejetes_n3=11682
+ambigus_n1=617
+ambigus_n2=576
+ambigus_n3=225
+artefacts_rejetes=0
+variantes_casse_potentielles=1
+sha256_l_avant=3275239f4eb1b9d4a768d0636f97007f5ed508dc7cf700fdff72ec55b52b6505
+sha256_l_apres=3275239f4eb1b9d4a768d0636f97007f5ed508dc7cf700fdff72ec55b52b6505
+
+raisons
+2gramme_nominal_majuscule	425
+3gramme_nominal_majuscule	1
+contient_nombre	14
+debut_mot_grammatical	8368
+indice_non_personne	1911
+nom_suivi_contexte	8111
+sequence_nominale_partielle	602
+sequence_non_personne	29
+structure_majuscule_titre	342
+titre_interne	8
+titre_ou_fonction_sans_nom	7
+titre_sans_nom_clair	148
+titre_suivi_nom	17
+trigramme_nominal_rare	43
+unigramme_majuscule_frequent	479
+unigramme_non_nominal	16
+unigramme_rare	610
