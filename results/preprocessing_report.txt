@@ -81,7 +81,7 @@ plusmoins_laisses=0
 cas_ambigus=6634
 
 SHA-256 sources avant/après : identiques
-b10a71e7705cc2da41cc7e41817d568aebaf65ea263ba59d745ffb1934f2e54c */c/Users/taleb/Desktop/AMS_Entites_Nommees/results/extracted/Fondation.txt
-547c7c3be6a7dcd362a3ad6b85f6dff41bf7609e9b5c54bb851b718fe73d2b2c */c/Users/taleb/Desktop/AMS_Entites_Nommees/results/extracted/Fondation_et_empire.txt
-803011045188f19d2df09577390817fcdf74d56dac7c9bcd3b41549b13ba183e */c/Users/taleb/Desktop/AMS_Entites_Nommees/results/extracted/Seconde_Fondation.txt
+b10a71e7705cc2da41cc7e41817d568aebaf65ea263ba59d745ffb1934f2e54c */c/Users/saraz/Desktop/AMS_Entites_Nommees/results/extracted/Fondation.txt
+547c7c3be6a7dcd362a3ad6b85f6dff41bf7609e9b5c54bb851b718fe73d2b2c */c/Users/saraz/Desktop/AMS_Entites_Nommees/results/extracted/Fondation_et_empire.txt
+803011045188f19d2df09577390817fcdf74d56dac7c9bcd3b41549b13ba183e */c/Users/saraz/Desktop/AMS_Entites_Nommees/results/extracted/Seconde_Fondation.txt
 UTF-8 et invariants par page : OK
