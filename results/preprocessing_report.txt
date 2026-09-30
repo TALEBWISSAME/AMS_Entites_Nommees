@@ -1,0 +1,87 @@
+Prétraitement conservateur Bash/GNU awk
+Locale : C.utf8
+GNU Awk 5.3.2, API 4.0, PMA Avon 8-g1, (GNU MPFR 4.2.2, GNU MP 6.3.0)
+Caractères hors U+000C ; lignes par page. Lignes fusionnées = jonctions avec espace ; tirets réunis comptés séparément.
+Artefacts traités = lignes de pagination, sans double comptage ; marqueurs laissés potentiellement légitimes.
+
+=== Fondation ===
+caracteres_avant=205057
+caracteres_apres=204243
+lignes_avant=3989
+lignes_apres=3868
+frontieres_preservees=107
+pagination_supprimee=108
+lignes_fusionnees=10
+lignes_conservees=3868
+tirets_reunis=3
+tirets_ambigus=14
+artefacts_certains_traites=108
+artefacts_laisses=23
+cid_laisses=0
+pilcrows_laisses=3
+degres_laisses=20
+plusmoins_laisses=0
+cas_ambigus=2014
+
+=== Fondation_et_empire ===
+caracteres_avant=226390
+caracteres_apres=225511
+lignes_avant=4361
+lignes_apres=4228
+frontieres_preservees=115
+pagination_supprimee=116
+lignes_fusionnees=13
+lignes_conservees=4228
+tirets_reunis=4
+tirets_ambigus=20
+artefacts_certains_traites=116
+artefacts_laisses=40
+cid_laisses=8
+pilcrows_laisses=5
+degres_laisses=27
+plusmoins_laisses=0
+cas_ambigus=2166
+
+=== Seconde_Fondation ===
+caracteres_avant=237404
+caracteres_apres=236500
+lignes_avant=4407
+lignes_apres=4268
+frontieres_preservees=119
+pagination_supprimee=119
+lignes_fusionnees=17
+lignes_conservees=4268
+tirets_reunis=3
+tirets_ambigus=32
+artefacts_certains_traites=119
+artefacts_laisses=5
+cid_laisses=0
+pilcrows_laisses=0
+degres_laisses=5
+plusmoins_laisses=0
+cas_ambigus=2454
+
+=== TOTAL CORPUS ===
+caracteres_avant=668851
+caracteres_apres=666254
+lignes_avant=12757
+lignes_apres=12364
+frontieres_preservees=341
+pagination_supprimee=343
+lignes_fusionnees=40
+lignes_conservees=12364
+tirets_reunis=10
+tirets_ambigus=66
+artefacts_certains_traites=343
+artefacts_laisses=68
+cid_laisses=8
+pilcrows_laisses=8
+degres_laisses=52
+plusmoins_laisses=0
+cas_ambigus=6634
+
+SHA-256 sources avant/après : identiques
+b10a71e7705cc2da41cc7e41817d568aebaf65ea263ba59d745ffb1934f2e54c */c/Users/taleb/Desktop/AMS_Entites_Nommees/results/extracted/Fondation.txt
+547c7c3be6a7dcd362a3ad6b85f6dff41bf7609e9b5c54bb851b718fe73d2b2c */c/Users/taleb/Desktop/AMS_Entites_Nommees/results/extracted/Fondation_et_empire.txt
+803011045188f19d2df09577390817fcdf74d56dac7c9bcd3b41549b13ba183e */c/Users/taleb/Desktop/AMS_Entites_Nommees/results/extracted/Seconde_Fondation.txt
+UTF-8 et invariants par page : OK

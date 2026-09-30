@@ -1,0 +1,21 @@
+# Corpus réservé à un usage local
+/corpus/
+/results/extracted/
+/results/processed/
+
+# Python et environnements locaux
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Configuration locale et fichiers temporaires
+.env
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
